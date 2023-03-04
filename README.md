@@ -1,5 +1,6 @@
 # APP_Desarrollo_Movil
-Proyecto Desarrollo Movil - Mario Lerma
+Proyecto Desarrollo Movil 
+Presentado po: Lerma Aldana Mario Gerley
 
 # IDEAS PROYECTO
 
