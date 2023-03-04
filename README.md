@@ -44,5 +44,5 @@ tal eficiente esta quedando el equipo y un comparativo con otras referencias.
 
 - [Mercado Libre](https://play.google.com/store/apps/details?id=com.mercadolibre&hl=es_CO&gl=US)
 - [Cotizador Express Presupuestos](https://play.google.com/store/apps/details?id=ar.cotizador&hl=es_CO&gl=US)
-- [Amazon compras] (https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping&hl=es_CO&gl=US)
+- [Amazon compras](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping&hl=es_CO&gl=US)
 
