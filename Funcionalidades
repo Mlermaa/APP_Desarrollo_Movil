@@ -1,0 +1,23 @@
+# FUNCIONALIDADES
+
+# Funcionalidades de Usuario
+
+Techdesk contara con una interfaz dinámica que permite interactuar con diferentes elementos 
+para crear un prototipo de equipo deseado, todas las características hacen que la app se convierta
+en un aliado estratégico a la hora de adquirir equipamiento tecnológico, la aplicación cuenta con
+las siguientes funcionalidades:
+
+1.	Tener acceso a un catálogo de productos y realizar búsquedas específicas.
+
+2.	Crear casilleros de modelos cotizados, se almacena el modelo creado con las características definidas, 
+    este se mantendrá hasta que el usuario decida mejorar las características, cancelarlo o enviarlo para compra.
+    
+3.	Crear lista de intereses.
+
+4.	Proyectos en curso, el usuario podrá crear una novedad en el sistema de un proyecto que tenga en mente, 
+y estará recibiendo soluciones, ideas innovadoras de productos que podrían complementar e integrar el proyecto.
+
+5.	Rankeo, una funcionalidad que le permite al usuario ver el mercado, que productos están siendo 
+    novedosos e integrados por mercados cercanos.
+
+6.	Comparar los porcentajes de rendimiento en tiempo real al intercambiar partes similares con otras marcas o costos.
